@@ -1,0 +1,19 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "ini kelas hari rabu di makers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.2.1"
+  }
+}
